@@ -1,0 +1,5 @@
+com\nemo\javalab_ex2\entity\Book.class
+com\nemo\javalab_ex2\JakartaRestConfiguration.class
+com\nemo\javalab_ex2\resources\JakartaEE10Resource.class
+com\nemo\javalab_ex2\controller\ControllerServlet.class
+com\nemo\javalab_ex2\DAO\BookDAO.class
