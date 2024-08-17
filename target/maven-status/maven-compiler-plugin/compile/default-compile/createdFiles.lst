@@ -1,0 +1,5 @@
+com\nemo\javalab_ex1\entity\Account.class
+com\nemo\javalab_ex1\DAO\AccountDAO.class
+com\nemo\javalab_ex1\controller\ControllerServlet.class
+com\nemo\javalab_ex1\JakartaRestConfiguration.class
+com\nemo\javalab_ex1\resources\JakartaEE10Resource.class
