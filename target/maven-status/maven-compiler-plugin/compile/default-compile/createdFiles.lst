@@ -1,0 +1,13 @@
+com\nemo\javalab_ex3\entity\OrderList.class
+com\nemo\javalab_ex3\entity\Address.class
+com\nemo\javalab_ex3\entity\Book.class
+com\nemo\javalab_ex3\entity\Customer.class
+com\nemo\javalab_ex3\DAO\CustomerDAO.class
+com\nemo\javalab_ex3\resources\JakartaEE10Resource.class
+com\nemo\javalab_ex3\DAO\BookDAO.class
+com\nemo\javalab_ex3\DAO\OrderDAO.class
+com\nemo\javalab_ex3\entity\Order.class
+com\nemo\javalab_ex3\JakartaRestConfiguration.class
+com\nemo\javalab_ex3\DAO\AccountDAO.class
+com\nemo\javalab_ex3\controller\ControllerServlet.class
+com\nemo\javalab_ex3\entity\Account.class
